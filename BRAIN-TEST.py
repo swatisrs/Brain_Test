@@ -26,7 +26,7 @@ def clear():
 def ans():
     global i
     if r[i]==Q1:
-        if e1.get()=='6':
+        if e1.get()=='6': //participating in hacktoberfest
             y()
         else:
             n()
